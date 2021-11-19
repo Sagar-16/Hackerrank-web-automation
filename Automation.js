@@ -1,7 +1,7 @@
 //npm install minimist
 //npm init -y
-//npm install puppeteen
-// node Automation.js --url="https://www.hackerrank.com" --credit="config.json"
+//npm install puppeteer
+// node Automation.js --url="https://www.hackerrank.com" --config="config.json"
 
 let minimist = require("minimist");
 let fs = require("fs");
